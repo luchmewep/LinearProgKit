@@ -6,7 +6,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
@@ -19,5 +19,7 @@
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Codes/Java/SQLKit/src/JAR Files/SQLiteKitv2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JAR Files/sqlite-jdbc-3.27.2.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/JAR Files/SQLiteKit.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator/Desktop/Java/JAR Files/jfoenix-8.0.8.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFX"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
